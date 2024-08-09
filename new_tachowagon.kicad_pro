@@ -569,6 +569,14 @@
     [
       "9abf1a40-9f58-4a4e-8716-381c37cbdb2b",
       ""
+    ],
+    [
+      "7fdc8ed1-71ec-44f7-ad86-430a76f5e212",
+      "ESP32"
+    ],
+    [
+      "557c5892-66ec-41ea-9cf8-194caf1ee1cd",
+      "Buck 5V"
     ]
   ],
   "text_variables": {}
